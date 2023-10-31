@@ -1,8 +1,21 @@
 ```html
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>Document</title>
+    <style>
+        ul{
+            display: flex;
+            padding:0;
+        }
+        a{
+            margin-right: 20px;
+            text-decoration: none;
+        }
+        li{
+            list-style-type: none;
+        }
+    </style>
 </head>
 <body>
     <ul>
